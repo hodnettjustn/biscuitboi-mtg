@@ -1,6 +1,6 @@
 {
   "name": "BiscuitBoi MTG Life Counter",
-  "version": "3",
+  "version": "4",
   "new_install_prompt_erase": false,
   "new_install_improv_wait_time": 0,
   "builds": [
